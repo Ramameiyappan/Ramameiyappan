@@ -20,13 +20,13 @@
 Python | SQL | HTML5 | CSS3  
 
 **Frameworks & Libraries:**  
-Django | Pandas | NumPy | Matplotlib | Scikit-learn  
+Django | Pandas | NumPy 
 
 **Tools & Platforms:**  
-Git | GitHub | VS Code | XAMPP | MySQL | Postman  
+Git | GitHub | VS Code | XAMPP | MySQL 
 
 **Currently Exploring:**  
-Machine Learning | REST APIs | Data Analysis  
+REST APIs | Data Analysis  
 
 ---
 
@@ -54,7 +54,7 @@ Machine Learning | REST APIs | Data Analysis
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/ramameiyappan)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramameiyappan-rm-70145b359) 
 - 💻 [LeetCode](https://leetcode.com/ramameiyappan)  
 - 📧 Email: meiyappanvdm@gmail.com  
 
