@@ -42,26 +42,6 @@ Machine Learning | REST APIs | Data Analysis
 
 ---
 
-## 🏆 Achievements
-
-| Title | Level | Description |
-|-------|-------|-------------|
-| 10th Grade | 1st | Topper in SSLC |
-| 12th Grade | 1st | Topper in HSC |
-| LeetCode Enthusiast | Individual | Solved 100+ coding problems |
-
----
-
-## 📜 Certifications
-
-| Title | Platform |
-|-------|----------|
-| Python for Data Science | Infosys Springboard |
-| Django Web Development | Udemy |
-| SQL for Beginners | HackerRank |
-
----
-
 ## 💡 Interests
 
 - Full-stack Web Development  
@@ -76,7 +56,7 @@ Machine Learning | REST APIs | Data Analysis
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ramameiyappan)  
 - 💻 [LeetCode](https://leetcode.com/ramameiyappan)  
-- 📧 Email: ramameiyappan@example.com  
+- 📧 Email: meiyappanvdm@gmail.com  
 
 ---
 
