@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ramameiyappan RM 👋</h1>
+<h1 align="center">Hi 👋, I'm Ramameiyappan RM </h1>
 <h3 align="center">A Passionate Python & Django Developer | Aspiring Data Analyst | Final Year CSE Student</h3>
 
 ---
